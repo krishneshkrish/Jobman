@@ -1,0 +1,80 @@
+TAILORED FOR: Power Platform Developer - Copilot Studio @ SAS
+JOB URL: https://in.linkedin.com/jobs/view/power-platform-developer-copilot-studio-at-sas-4394600458
+MATCH SCORE: 85
+============================================================
+
+**B S Krishnesh**  
+AI Agent Developer | Power Platform Developer | Automation Engineer  
+Trivandrum, India | +91 86063 27850 | krishkrishnesh8@gmail.com | linkedin.com/in/bskrishnesh | github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY  
+Results‑driven Power Platform Developer with 1 + year of enterprise experience delivering low‑code solutions that automate PMO, HR, and delivery workflows. Proven ability to design, build, and govern Power Apps (canvas & model‑driven), Power Automate flows, and Dataverse data models while integrating AI capabilities through Microsoft Copilot Studio and OpenAI APIs. Strong background in RAG pipelines, prompt engineering, and local LLM deployment enables creation of intelligent, scalable business applications that reduce manual effort and improve decision velocity.
+
+---
+
+### TECHNICAL SKILLS  
+
+- **Power Platform:** Power Apps (canvas & model‑driven), Power Automate, Dataverse, Power BI, Microsoft Teams (Adaptive Cards), Copilot Studio, ALM & solution lifecycle  
+- **AI & Agents:** LangChain, LangGraph, OpenAI API, Gemini API, Retrieval‑Augmented Generation, Prompt Engineering, Local LLMs (Ollama)  
+- **Data & Vector Stores:** ChromaDB, FAISS, all‑MiniLM‑L6‑v2 embeddings, SQLite session memory, vector‑search optimization  
+- **Microsoft Ecosystem:** Microsoft 365, Azure, Dynamics 365, Azure DevOps (CI/CD), security & governance best practices  
+- **Programming:** Python, C#, JavaScript, SQL, PowerShell  
+- **Tools:** Git, VS Code, AWS Lambda, Selenium, Pandas, NumPy, prompt_toolkit  
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+*NeST Digital – Data & Intelligent Automation Team, Trivandrum* Jul 2025 – Present  
+- Delivered an enterprise‑grade PMO platform using **Power Apps**, **Power Automate**, and **Dataverse**, enabling leadership, HR, and delivery teams to manage opportunities, project lifecycles, and resource allocation in a single low‑code solution.  
+- Owned end‑to‑end development of 3 core modules, implementing **solution‑aware ALM**, version control, and **governance policies** that reduced cross‑team coordination overhead by 30 %.  
+- Engineered 5+ **Power Automate cloud flows** with multi‑level approvals, status transitions, and real‑time Dataverse updates, adhering to security and compliance standards.  
+- Created **Microsoft Teams Adaptive Cards** for in‑app approvals, boosting user adoption and cutting response time by 40 %.  
+- Applied **client‑side JavaScript** for dynamic form rendering and conditional logic, enhancing UI/UX across Canvas Apps.  
+- Integrated **Copilot Studio** prompts to surface AI‑driven suggestions within Power Apps, accelerating form completion and data entry.  
+
+**Data Analyst Trainee**  
+*Quest Innovative Solutions, Trivandrum* Mar 2025 – Jul 2025  
+- Conducted full‑cycle data preparation, transformation, and visualization using Python (Pandas, NumPy), SQL, and **Power BI**.  
+- Delivered interactive dashboards that informed senior leadership decisions and streamlined operational reporting.  
+
+**Executive Trainee**  
+*ESAF Small Finance Bank, Malappuram* Aug 2024 – Mar 2025  
+- Gained exposure to enterprise compliance workflows, documentation standards, and stakeholder communication within a regulated financial environment—foundational experience for building compliant Power Platform solutions.  
+
+---
+
+### SELECTED PROJECTS  
+
+**MARC – Local AI Coding Assistant** (Python, Ollama, prompt_toolkit)  
+- Built a privacy‑first, on‑device AI coding assistant that runs entirely on local LLMs via **Ollama**.  
+- Designed an **LLM intent router** to classify commands (CHAT, READ, EDIT, CREATE, LIST), enabling precise agent behavior.  
+- Implemented sliding‑window memory and efficient diff‑based file edits to minimize token consumption and prevent RAM overflow.  
+
+**YoctoGPT – Embedded Linux RAG Assistant** (Python, Gemini 2.5 Flash, ChromaDB)  
+- Created a CLI‑based Retrieval‑Augmented Generation pipeline for Yocto Project documentation, leveraging **ChromaDB** vector store and **all‑MiniLM‑L6‑v2** embeddings.  
+- Integrated **Gemini 2.5 Flash** as the LLM engine, delivering citation‑backed, hallucination‑free responses for BitBake syntax queries.  
+
+---
+
+### EDUCATION  
+
+**B.Tech, Computer Science Engineering** – Mar Baselious Institute of Technology & Science, Ernakulam  
+CGPA: 7.37 2020 – 2024  
+
+---
+
+### ACHIEVEMENTS & AFFILIATIONS  
+
+- Winner – College Ideathon (project innovation)  
+- Completed Accenture North America Virtual Internship (Forage)  
+- Active Member – Institution’s Innovation Council (IEDC)  
+
+---
+
+### LANGUAGES  
+
+English | Malayalam | Hindi | Tamil

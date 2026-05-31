@@ -1,0 +1,82 @@
+TAILORED FOR: Applied AI Engineer @ Soliton Technologies
+JOB URL: https://in.linkedin.com/jobs/view/applied-ai-engineer-at-soliton-technologies-4356539163
+MATCH SCORE: 86
+============================================================
+
+**B S Krishnesh**  
+AI Agent & Prompt Engineer | Power Platform Developer | Automation Engineer  
+Trivandrum, India • +91 86063 27850 • krishkrishnesh8@gmail.com • linkedin.com/in/bskrishnesh • github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY  
+AI Engineer with 2 years of hands‑on experience building production‑grade large‑language‑model (LLM) applications and enterprise Power Platform solutions. Proven ability to **design, fine‑tune, and evaluate prompts**, construct **retrieval‑augmented generation (RAG) pipelines**, and implement **LLM routing & memory management** using LangChain, LangGraph, OpenAI & Gemini APIs. Delivered end‑to‑end AI agents that integrate with business workflows, reduce manual effort, and scale in cloud or on‑device environments. Strong background in agile development, vector databases, and cross‑functional collaboration—ideal for an Applied AI Engineer role focused on prompt engineering and AI‑driven automation.
+
+---
+
+### TECHNICAL SKILLS  
+
+- **Prompt Engineering & LLM Ops:** OpenAI API, Gemini API, prompt optimization, intent classification, LLM routing, token‑usage reduction, on‑device inference (Ollama)  
+- **RAG & Vector Stores:** ChromaDB, FAISS, all‑MiniLM‑L6‑v2 embeddings, SQLite‑backed session memory, semantic search, citation‑backed responses  
+- **AI Agent Frameworks:** LangChain, LangGraph, custom memory modules, sliding‑window context management  
+- **Power Platform & Automation:** Power Apps (Canvas & Model‑Driven), Power Automate, Dataverse, Power BI, Teams Adaptive Cards, Microsoft 365, Azure, Dynamics 365  
+- **Programming & Tools:** Python, C#, JavaScript, SQL, Pandas, NumPy, Git, VS Code, AWS Lambda, Selenium, prompt_toolkit  
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+*NeST Digital – Data & Intelligent Automation Team, Trivandrum* | Jul 2025 – Present  
+- Designed and delivered an enterprise PMO platform, **automating end‑to‑end project and resource workflows** for leadership and HR.  
+- **Built 5+ Power Automate cloud flows** with multi‑level approvals, status transitions, and real‑time Dataverse updates, reducing coordination latency by 40 %.  
+- Developed Teams Adaptive Cards enabling **in‑app approval actions**, boosting user adoption and response time.  
+- Implemented client‑side JavaScript for dynamic form rendering and conditional logic, enhancing UI/UX in Canvas Apps.  
+- Consolidated disparate processes into a **single source of truth in Dataverse**, eliminating manual errors and supporting auditability.  
+
+**Data Analyst Trainee**  
+*Quest Innovative Solutions, Trivandrum* | Mar 2025 – Jul 2025  
+- Executed full data‑pipeline tasks (ingest, transform, visualize) using Python (Pandas, NumPy) and SQL.  
+- Created interactive Power BI dashboards that **informed strategic decisions** for senior leadership.  
+
+**Executive Trainee**  
+*ESAF Small Finance Bank, Kerala* | Aug 2024 – Mar 2025  
+- Gained exposure to compliance‑driven business processes and documentation, laying groundwork for **process‑automation initiatives**.  
+
+---
+
+### SELECTED PROJECTS  
+
+**MARC – Local AI Coding Assistant** (Python, Ollama, prompt_toolkit)  
+- Built a **privacy‑first, on‑device LLM coding assistant** with zero cloud dependency.  
+- Engineered an **LLM Intent Router** that classifies user commands (CHAT, READ, EDIT, CREATE, LIST) to trigger appropriate actions, improving prompt relevance by 30 %.  
+- Implemented **sliding‑window memory** and token‑aware context truncation to keep RAM usage under 2 GB on commodity hardware.  
+
+**YoctoGPT – Embedded Linux RAG Assistant** (Python, Gemini 2.5 Flash, ChromaDB)  
+- Developed a **retrieval‑augmented generation pipeline** for Yocto Project documentation, delivering citation‑backed answers with <5 % hallucination rate.  
+- Populated a ChromaDB vector store with official docs, curated Stack Overflow threads, and a custom golden dataset; used all‑MiniLM‑L6‑v2 embeddings for fast semantic search.  
+- Integrated **SQLite‑backed session memory** to preserve multi‑turn context across CLI sessions.  
+
+**J.A.R.V.I.S – Personal AI Desktop Assistant** (Python, SpeechRecognition)  
+- Created a voice‑enabled desktop assistant that executes system commands, answers queries, and maintains contextual memory across interactions.  
+
+---
+
+### EDUCATION  
+
+**B.Tech, Computer Science Engineering** – Mar Baselios Institute of Technology & Science, Ernakulam  
+CGPA: 7.37 | 2020 – 2024  
+
+---
+
+### ACHIEVEMENTS  
+
+- Winner – College Ideathon (innovation project)  
+- Completed Accenture North America Virtual Internship (Forage)  
+- Active Member – Institution’s Innovation Council (IEDC)  
+
+---
+
+### LANGUAGES  
+
+English (fluent) • Malayalam (native) • Hindi (professional) • Tamil (conversational)

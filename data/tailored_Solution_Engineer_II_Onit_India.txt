@@ -1,0 +1,72 @@
+TAILORED FOR: Solution Engineer II @ Onit India
+JOB URL: https://in.linkedin.com/jobs/view/solution-engineer-ii-at-onit-india-4399784615
+MATCH SCORE: 85
+============================================================
+
+**B S Krishnesh**  
+AI & Power Platform Developer | Automation Engineer  
+Trivandrum, India • +91 86063 27850 • krishkrishnesh8@gmail.com  
+linkedin.com/in/bskrishnesh • github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY
+Solution‑focused developer with 1 + year of end‑to‑end experience delivering enterprise Power Platform solutions (Power Apps, Power Automate, Dataverse) in agile environments. Proven ability to gather requirements, design low‑code applications, build automated workflows, and integrate with Microsoft 365, Azure, and Teams to streamline business processes. Strong analytical background and hands‑on expertise in AI‑augmented assistants, positioning me to drive intelligent, scalable solutions as a Solution Engineer II at Onit.
+
+---
+
+### TECHNICAL SKILLS
+- **Power Platform:** Canvas & Model‑Driven Power Apps, Power Automate (cloud flows), Dataverse, Power BI, Teams Adaptive Cards, Power Apps Component Framework  
+- **Microsoft Ecosystem:** Microsoft 365, Azure (App Services, Functions), Dynamics 365, Copilot Studio, Power Platform Governance  
+- **AI & Agents:** LangChain, LangGraph, OpenAI & Gemini APIs, Retrieval‑Augmented Generation, Prompt Engineering, Local LLMs (Ollama)  
+- **Data & Integration:** SQL, Python (Pandas, NumPy), C#, JavaScript, REST/Connector development, Git, VS Code, Selenium  
+- **Tools:** Azure DevOps, Agile Scrum, Jira, Power Platform Admin Center, AWS Lambda  
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+*NeST Digital – Data & Intelligent Automation Team, Trivandrum* | Jul 2025 – Present  
+- Designed and delivered a company‑wide PMO solution on Power Platform, enabling leadership, HR, and delivery teams to manage opportunities, project lifecycles, and resource allocation.  
+- Gathered functional requirements, translated them into Canvas and Model‑Driven Power Apps, and implemented data model in Dataverse as the single source of truth.  
+- Built 5+ end‑to‑end Power Automate cloud flows for multi‑level approvals, status transitions, and real‑time notifications, reducing manual coordination time by 30 %.  
+- Developed Teams Adaptive Cards for approval actions, increasing user adoption and response speed within Microsoft Teams.  
+- Implemented client‑side JavaScript for dynamic form behavior and conditional field logic, enhancing UI/UX and reducing data entry errors.  
+- Conducted solution walkthroughs and training sessions for business stakeholders, ensuring smooth hand‑over and ongoing support.  
+
+**Data Analyst Trainee**  
+*Quest Innovative Solutions, Trivandrum* | Mar 2025 – Jul 2025  
+- Performed data extraction, transformation, and visualization using Python (Pandas, NumPy) and SQL; delivered Power BI dashboards that informed executive decision‑making.  
+- Automated data refresh pipelines with Power Automate, improving reporting latency from weekly to daily.  
+
+**Executive Trainee**  
+*ESAF Small Finance Bank, Malappuram* | Aug 2024 – Mar 2025  
+- Assisted in documenting compliance workflows and customer‑facing processes, gaining insight into regulated business environments and change‑management practices.  
+
+---
+
+### SELECTED PROJECTS  
+
+**MARC – Local AI Coding Assistant** (Python, Ollama, prompt_toolkit)  
+- Built a privacy‑first, on‑device AI coding assistant; integrated an intent router to differentiate between chat, code edit, and file operations, enabling precise automation of developer tasks.  
+
+**YoctoGPT – Embedded Linux RAG Assistant** (Python, Gemini 2.5 Flash, ChromaDB)  
+- Created a retrieval‑augmented CLI tool for Yocto Project engineers, leveraging vector search and session memory to provide citation‑backed, hallucination‑free answers.  
+
+---
+
+### EDUCATION  
+**B.Tech, Computer Science Engineering** – Mar Baselios Institute of Technology & Science, Ernakulam | CGPA 7.37 (2020‑2024)  
+
+---
+
+### ACHIEVEMENTS  
+- Winner, College Ideathon – Innovation Project  
+- Completed Accenture North America Virtual Internship (Forage)  
+- Active member, Institution’s Innovation Council (IEDC)  
+
+---
+
+### LANGUAGES  
+English, Malayalam, Hindi, Tamil

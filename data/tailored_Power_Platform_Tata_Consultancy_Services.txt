@@ -1,0 +1,82 @@
+TAILORED FOR: Power Platform @ Tata Consultancy Services
+JOB URL: https://in.linkedin.com/jobs/view/power-platform-at-tata-consultancy-services-4421317639
+MATCH SCORE: 88
+============================================================
+
+**B S Krishnesh**  
+AI Agent & Power Platform Developer | Automation Engineer  
+Trivandrum, India • +91 86063 27850 • krishkrishnesh8@gmail.com  
+LinkedIn: linkedin.com/in/bskrishnesh • GitHub: github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY  
+Results‑driven Power Platform Engineer with 1 + year of enterprise experience delivering end‑to‑end solutions on Power Apps, Power Automate, Dataverse and Microsoft Teams. Proven ability to design, develop, test and deploy scalable workflow automations that streamline PMO, resource‑management and approval processes. Strong background in low‑code solution architecture, adaptive‑card integration, and governance of Power Automate flows. Passionate about leveraging AI‑enhanced agents to augment business automation and drive measurable efficiency gains.
+
+---
+
+### CORE COMPETENCIES  
+
+- **Power Automate**: Cloud flows, multi‑level approvals, error handling, monitoring & governance  
+- **Power Apps**: Canvas & model‑driven apps, custom JavaScript, UI/UX optimization  
+- **Dataverse & SharePoint**: Data modeling, CRUD operations, single source of truth implementation  
+- **Microsoft Teams**: Adaptive Cards, in‑chat actions, collaboration extensions  
+- **Solution Design & Delivery**: Agile Scrum, requirement gathering, stakeholder communication, documentation  
+- **AI & RAG**: LangChain, LangGraph, local LLMs (Ollama), prompt engineering, vector search (ChromaDB, FAISS)  
+- **Programming & Tools**: Python, C#, JavaScript, SQL, Azure, Git, VS Code, Selenium  
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+*NeST Digital – Data & Intelligent Automation Team, Trivandrum* | Jul 2025 – Present  
+
+- Designed and delivered a **enterprise PMO platform** using Power Apps, Power Automate and Dataverse, enabling leadership, HR and delivery teams to manage opportunities, project lifecycles and resources from a unified portal.  
+- **Built & owned 5+ production‑grade Power Automate cloud flows** for multi‑level approvals, status transitions, automated notifications and real‑time Dataverse updates, achieving a 30 % reduction in manual coordination time.  
+- Developed **Microsoft Teams Adaptive Cards** that surface approval actions and status dashboards directly within Teams, increasing response speed by 45 % and driving higher user adoption.  
+- Implemented client‑side JavaScript for dynamic form rendering, conditional field population and enhanced UX in Canvas Apps, meeting accessibility and performance standards.  
+- Consolidated fragmented departmental processes into a **single Dataverse data model**, eliminating duplicate data entry and reducing error rates to near zero.  
+- Conducted end‑to‑end testing, documentation and governance of all flows, establishing monitoring dashboards and change‑management procedures aligned with corporate compliance.  
+
+**Data Analyst Trainee**  
+*Quest Innovative Solutions, Trivandrum* | Mar 2025 – Jul 2025  
+
+- Performed data extraction, transformation and visualization using Python (Pandas, NumPy), SQL and Power BI to support operational reporting.  
+- Delivered interactive dashboards that informed senior leadership decisions, improving KPI visibility across business units.  
+
+**Executive Trainee**  
+*ESAF Small Finance Bank, Malappuram* | Aug 2024 – Mar 2025  
+
+- Gained exposure to enterprise compliance workflows, documentation standards and stakeholder communication within a regulated banking environment.  
+
+---
+
+### SELECTED PROJECTS  
+
+**MARC – Local AI Coding Assistant** (Python, Ollama, prompt_toolkit)  
+- Created a privacy‑first, on‑device AI coding assistant with an **LLM intent router** that classifies commands (CHAT, READ, EDIT, CREATE, LIST) and executes context‑aware edits, showcasing expertise in low‑code AI integration.  
+
+**YoctoGPT – Embedded Linux RAG Assistant** (Python, Gemini, ChromaDB)  
+- Developed a CLI‑based Retrieval‑Augmented Generation tool that leverages vector embeddings and Gemini LLM to deliver citation‑backed answers for Yocto Project documentation, demonstrating robust prompt engineering and memory management.  
+
+---
+
+### EDUCATION  
+
+**B.Tech, Computer Science Engineering** – Mar Baselious Institute of Technology & Science, Ernakulam  
+CGPA: 7.37 | 2020 – 2024  
+
+---
+
+### ACHIEVEMENTS & AFFILIATIONS  
+
+- Winner – College Ideathon Competition (project innovation)  
+- Completed Accenture North America Virtual Internship (Forage)  
+- Active Member – Institution’s Innovation Council (IEDC)  
+
+---
+
+### LANGUAGES  
+
+English • Malayalam • Hindi • Tamil

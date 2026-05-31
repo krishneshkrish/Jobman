@@ -1,0 +1,79 @@
+TAILORED FOR: Prompt Engineer @ LearningMate
+JOB URL: https://in.linkedin.com/jobs/view/prompt-engineer-at-learningmate-4416814245
+MATCH SCORE: 85
+============================================================
+
+**B S Krishnesh**  
+AI Agent & Prompt Engineer | Power Platform Developer  
+Trivandrum, India • +91 86063 27850 • krishkrishnesh8@gmail.com • linkedin.com/in/bskrishnesh • github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY
+Prompt Engineer with 2 years of hands‑on experience designing, testing, and optimizing large‑language‑model (LLM) prompts and Retrieval‑Augmented Generation (RAG) pipelines. Proven ability to translate business requirements into high‑quality, low‑hallucination LLM outputs using OpenAI, Gemini, LangChain, and LangGraph. Experienced in building production‑grade AI agents, managing vector stores (ChromaDB, FAISS), and implementing prompt‑routing architectures. Strong background in Power Platform automation adds a unique blend of AI‑driven workflow expertise and enterprise‑scale solution delivery.
+
+---
+
+### TECHNICAL SKILLS
+- **Prompt Engineering & LLM Ops:** Prompt design, iterative testing, A/B evaluation, safety & bias mitigation, LLM routing, OpenAI API, Gemini API, Ollama (local LLMs)  
+- **RAG & Vector Search:** ChromaDB, FAISS, all‑MiniLM‑L6‑v2 embeddings, SQLite‑backed session memory, semantic search, citation‑grounded responses  
+- **Frameworks:** LangChain, LangGraph, prompt_toolkit, Python, C#, JavaScript, SQL  
+- **Automation & Integration:** Power Apps (Canvas & Model‑Driven), Power Automate, Dataverse, Power BI, Microsoft Teams Adaptive Cards, Azure, Microsoft 365, Dynamics 365  
+- **Tools:** Git, VS Code, AWS Lambda, Selenium, Pandas, NumPy  
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+NeST Digital, Data & Intelligent Automation Team, Trivandrum, India  
+*Jul 2025 – Present*  
+- Designed and delivered an enterprise PMO platform, translating stakeholder requirements into LLM‑enhanced automation workflows.  
+- Developed 5+ Power Automate cloud flows and adaptive‑card integrations, applying prompt‑driven decision logic to streamline multi‑level approvals.  
+- Built reusable prompt templates for dynamic status‑transition notifications, reducing manual coordination errors to near‑zero.  
+- Implemented client‑side JavaScript and Power Apps customizations that leveraged LLM‑generated content for contextual form fields.  
+
+**Data Analyst Trainee**  
+Quest Innovative Solutions, Trivandrum, India  
+*Mar 2025 – Jul 2025*  
+- Created end‑to‑end data pipelines and interactive Power BI dashboards; incorporated LLM‑based natural‑language query layers to enable self‑service analytics.  
+
+**Executive Trainee**  
+ESAF Small Finance Bank, Malappuram, Kerala  
+*Aug 2024 – Mar 2025*  
+- Documented compliance workflows and identified automation opportunities, laying groundwork for AI‑driven process optimization.  
+
+---
+
+### SELECTED PROJECTS  
+
+**MARC – Local AI Coding Assistant** *(Python, Ollama, prompt_toolkit)*  
+- Engineered a privacy‑first, on‑device coding assistant; built an LLM intent router that classifies user input into structured actions (CHAT, READ, EDIT, CREATE, LIST).  
+- Optimized prompts for code‑generation and bug‑fixing tasks, reducing token consumption by 40 % through targeted SEARCH/REPLACE diffing.  
+- Implemented sliding‑window memory management to maintain context across long sessions on resource‑constrained hardware.  
+
+**YoctoGPT – Embedded Linux RAG Assistant** *(Python, Gemini 2.5 Flash, ChromaDB)*  
+- Developed a CLI RAG pipeline that delivers citation‑backed answers for Yocto Project documentation, eliminating hallucinations in BitBake syntax queries.  
+- Designed a custom vector store ingesting official docs, curated Stack Overflow threads, and a golden dataset; tuned prompts to surface the most relevant excerpts.  
+- Integrated SQLite‑backed session memory for persistent multi‑turn conversations, enabling seamless context retention.  
+
+**J.A.R.V.I.S – Personal AI Desktop Assistant** *(Python, SpeechRecognition)*  
+- Built a voice‑activated assistant that executes system commands and answers queries using prompt‑engineered conversational flows.  
+
+---
+
+### EDUCATION  
+**B.Tech, Computer Science Engineering** – Mar Baselious Institute of Technology & Science, Ernakulam  
+*2020 – 2024* | CGPA: 7.37  
+
+---
+
+### ACHIEVEMENTS & AFFILIATIONS  
+- Winner, College Ideathon Competition (project innovation)  
+- Completed Accenture North America Virtual Internship (Forage)  
+- Active member, Institution’s Innovation Council (IEDC)  
+
+---
+
+### LANGUAGES  
+English • Malayalam • Hindi • Tamil

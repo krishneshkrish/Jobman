@@ -1,0 +1,82 @@
+TAILORED FOR: Machine Learning Engineer @ Weekday AI (YC W21)
+JOB URL: https://in.linkedin.com/jobs/view/machine-learning-engineer-at-weekday-ai-yc-w21-4420282326
+MATCH SCORE: 70
+============================================================
+
+**B S Krishnesh**  
+AI Agent & Automation Engineer | Machine Learning Engineer  
+Trivandrum, India • +91 86063 27850 • krishkrishnesh8@gmail.com • linkedin.com/in/bskrishnesh • github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY  
+Machine Learning Engineer with 2 + years of hands‑on experience building and deploying production‑grade LLM‑powered solutions. Expert in designing Retrieval‑Augmented Generation (RAG) pipelines, prompt engineering, and agentic workflows using LangChain, LangGraph, OpenAI & Gemini APIs, and vector stores (ChromaDB, FAISS). Proven ability to translate business requirements into scalable ML services, integrate models into cloud‑native environments (Azure, AWS Lambda), and automate end‑to‑end data flows. Strong collaborative background delivering enterprise Power Platform applications, enabling rapid prototyping and full‑stack automation.
+
+---
+
+### TECHNICAL SKILLS  
+
+- **Machine Learning & LLMs:** LangChain, LangGraph, OpenAI API, Gemini API, RAG pipelines, prompt engineering, intent classification, local LLM deployment (Ollama)  
+- **Vector & Memory Stores:** ChromaDB, FAISS, all‑MiniLM‑L6‑v2 embeddings, SQLite‑backed session memory, sliding‑window context management  
+- **Data Engineering:** Python (Pandas, NumPy), SQL, data preprocessing, feature extraction, semantic search  
+- **Model Deployment & MLOps:** Azure Functions, AWS Lambda, Docker‑based inference, CI/CD with Git, monitoring via logs & alerts  
+- **Automation & Integration:** Power Apps, Power Automate, Dataverse, Microsoft Teams Adaptive Cards, RESTful APIs, JavaScript (client‑side)  
+- **Programming & Tools:** Python, C#, JavaScript, Git, VS Code, Selenium, prompt_toolkit  
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+*NeST Digital – Data & Intelligent Automation Team, Trivandrum* Jul 2025 – Present  
+- Designed and delivered an enterprise PMO platform, implementing **ML‑driven workflow automation** that reduced cross‑team coordination time by 30 %.  
+- Built and maintained **5+ cloud‑based Power Automate flows** with embedded LLM calls for dynamic approval routing and real‑time data enrichment in Dataverse.  
+- Developed **Microsoft Teams Adaptive Cards** that invoke LLM services via Azure Functions, enabling conversational approvals and instant insights.  
+- Engineered client‑side JavaScript extensions for Canvas Apps to **pre‑populate fields using model‑generated suggestions**, improving data entry efficiency.  
+- Consolidated fragmented processes into a **single source of truth** in Dataverse, leveraging vector similarity search for fast record lookup.
+
+**Data Analyst Trainee**  
+*Quest Innovative Solutions, Trivandrum* Mar 2025 – Jul 2025  
+- Executed end‑to‑end data pipelines (ETL) using Python (Pandas, NumPy) and SQL; created **feature‑rich datasets** for downstream ML models.  
+- Produced interactive Power BI dashboards that visualized model performance metrics for senior leadership.
+
+**Executive Trainee**  
+*ESAF Small Finance Bank, Malappuram* Aug 2024 – Mar 2025  
+- Documented compliance‑critical workflows and identified automation opportunities, laying groundwork for **rule‑based and ML‑augmented process improvement**.
+
+---
+
+### SELECTED PROJECTS  
+
+**MARC – Local AI Coding Assistant** (Python, Ollama, prompt_toolkit)  
+- Built a **privacy‑first, on‑device LLM coding assistant** with an intent router that classifies commands (CHAT, READ, EDIT, CREATE, LIST) and executes context‑aware code edits.  
+- Implemented **sliding‑window memory management** to keep inference within RAM limits, enabling continuous sessions on modest hardware.  
+
+**YoctoGPT – Embedded Linux RAG Assistant** (Python, Gemini 2.5 Flash, ChromaDB)  
+- Created a **domain‑specific Retrieval‑Augmented Generation pipeline** for Yocto Project documentation, using ChromaDB vector store and all‑MiniLM‑L6‑v2 embeddings for accurate semantic search.  
+- Integrated **SQLite‑backed session memory** to maintain multi‑turn conversational context without re‑loading the vector index.  
+
+**J.A.R.V.I.S – Personal AI Desktop Assistant** (Python, SpeechRecognition, pyttsx3)  
+- Developed a speech‑enabled desktop assistant that triggers system commands and automates routine tasks, showcasing **end‑to‑end voice‑to‑action pipelines**.
+
+---
+
+### EDUCATION  
+
+**B.Tech, Computer Science Engineering**  
+Mar Baselious Institute of Technology & Science, Ernakulam 2020 – 2024  
+CGPA: 7.37  
+
+---
+
+### ACHIEVEMENTS  
+
+- Winner, College Ideathon – recognized for innovative AI‑driven solution.  
+- Completed Accenture North America Virtual Internship (Forage).  
+- Active member, Institution’s Innovation Council (IEDC).  
+
+---
+
+### LANGUAGES  
+
+English • Malayalam • Hindi • Tamil

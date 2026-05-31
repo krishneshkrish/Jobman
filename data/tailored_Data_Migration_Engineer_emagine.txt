@@ -1,0 +1,75 @@
+TAILORED FOR: Data Migration Engineer @ emagine
+JOB URL: https://in.linkedin.com/jobs/view/data-migration-engineer-at-emagine-4418262254
+MATCH SCORE: 70
+============================================================
+
+**B S Krishnesh**  
+AI & Power Platform Developer | Data Migration Engineer  
+Trivandrum, India | +91 86063 27850 | krishkrishnesh8@gmail.com | linkedin.com/in/bskrishnesh | github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY  
+Results‑driven developer with 1 + year of enterprise experience delivering end‑to‑end data migration and automation solutions on Microsoft Power Platform. Proven ability to design, build, and govern Power Automate flows, Power Apps, and Dataverse data models that streamline data movement, enforce validation, and ensure audit‑ready records. Skilled in mapping, transforming, and loading data across systems, coupled with strong Python and SQL analytics background. Passionate about leveraging low‑code tools to accelerate migration projects while maintaining data integrity and stakeholder alignment.
+
+---
+
+### TECHNICAL SKILLS  
+
+- **Power Platform:** Power Automate (cloud flows, approval workflows, error handling), Power Apps (Canvas & Model‑Driven), Dataverse data modeling, Power BI, Teams Adaptive Cards  
+- **Data Migration & Integration:** Data mapping, ETL design, record validation, change tracking, bulk import/export, Azure Data Factory basics, API connectors  
+- **AI & Automation:** LangChain, LangGraph, OpenAI & Gemini APIs, RAG pipelines, prompt engineering, local LLMs (Ollama)  
+- **Programming & DB:** Python, C#, JavaScript, SQL, SQLite, ChromaDB, FAISS, all‑MiniLM‑L6‑v2 embeddings  
+- **Microsoft Ecosystem:** Microsoft 365, Azure, Dynamics 365, Copilot Studio, Git, VS Code, AWS Lambda, Selenium  
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+*NeST Digital – Data & Intelligent Automation Team, Trivandrum* | Jul 2025 – Present  
+- Designed and executed **data migration** of legacy project‑tracking tables into **Dataverse**, establishing a single source of truth and eliminating manual reconciliation errors.  
+- Built **5+ enterprise‑grade Power Automate cloud flows** for multi‑level approvals, status transitions, and **automated data validation**; incorporated error‑handling and retry logic to meet SLA requirements.  
+- Developed **Power Apps (Canvas & Model‑Driven)** modules for opportunity tracking, resource allocation, and lifecycle management, enabling seamless **data import/export** via CSV and Excel connectors.  
+- Created **Microsoft Teams Adaptive Cards** that surface migration status and approval actions directly within Teams, improving stakeholder response time by 30 %.  
+- Implemented client‑side JavaScript for dynamic form behavior and conditional field population, reducing data entry errors during migration activities.  
+
+**Data Analyst Trainee**  
+*Quest Innovative Solutions, Trivandrum* | Mar 2025 – Jul 2025  
+- Conducted end‑to‑end data cleansing, transformation, and **migration** of operational datasets into Power BI dashboards using Python (Pandas, NumPy) and SQL.  
+- Automated recurring data load processes with Power Automate, achieving a 40 % reduction in manual reporting effort.  
+
+**Executive Trainee**  
+*ESAF Small Finance Bank, Kerala* | Aug 2024 – Mar 2025  
+- Documented compliance‑driven business processes and assisted in **data migration** of legacy banking records to modern platforms, gaining exposure to governance and security controls.  
+
+---
+
+### SELECTED PROJECTS  
+
+**MARC – Local AI Coding Assistant** (Python, Ollama, prompt_toolkit)  
+- Built a privacy‑first, on‑device LLM assistant with an **intent router** that classifies commands (e.g., CREATE, EDIT) and performs file‑level operations, demonstrating expertise in **data manipulation** and context‑aware processing.  
+
+**YoctoGPT – Embedded Linux RAG Assistant** (Python, Gemini, ChromaDB)  
+- Developed a CLI‑based Retrieval‑Augmented Generation tool that indexes technical documentation in a **vector store**, enabling accurate, citation‑backed query responses—experience directly applicable to building searchable migration knowledge bases.  
+
+---
+
+### EDUCATION  
+
+**B.Tech, Computer Science Engineering** – Mar Baselios Institute of Technology & Science, Ernakulam | 2020‑2024  
+CGPA: 7.37  
+
+---
+
+### ACHIEVEMENTS  
+
+- Winner, College Ideathon – recognized for innovative automation solution.  
+- Completed Accenture North America Virtual Internship (Forage).  
+- Active member, Institution’s Innovation Council (IEDC).  
+
+---
+
+### LANGUAGES  
+
+English | Malayalam | Hindi | Tamil

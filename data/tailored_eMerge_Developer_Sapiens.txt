@@ -1,0 +1,73 @@
+TAILORED FOR: eMerge Developer @ Sapiens
+JOB URL: https://in.linkedin.com/jobs/view/emerge-developer-at-sapiens-4414899914
+MATCH SCORE: 85
+============================================================
+
+**B S KRISHNESH**  
+AI & Power Platform Developer | Automation Engineer  
+Trivandrum, India | +91 86063 27850 | krishkrishnesh8@gmail.com  
+linkedin.com/in/bskrishnesh | github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY
+Results‑driven Power Platform Engineer with 1 + year of end‑to‑end experience delivering enterprise‑grade Power Apps, Power Automate flows, and Dataverse solutions. Proven ability to gather requirements, design scalable canvas and model‑driven apps, and automate complex business processes for PMO and resource‑management domains. Skilled in agile delivery, solution lifecycle management, and integrating Microsoft Teams adaptive cards to boost user adoption. Passionate about leveraging low‑code platforms to accelerate digital transformation at Sapiens.
+
+---
+
+### TECHNICAL SKILLS
+- **Power Platform:** Power Apps (Canvas & Model‑Driven), Power Automate, Dataverse, Power BI, Teams Adaptive Cards, Power Apps Portals, Solution ALM (ALM Toolkit, Git)
+- **Microsoft Ecosystem:** Microsoft 365, Azure (App Services, Functions), Dynamics 365, Copilot Studio
+- **Programming & Scripting:** Python, C#, JavaScript, SQL, Power Fx
+- **Automation & Integration:** Custom connectors, REST APIs, Azure Logic Apps, Microsoft Graph
+- **AI & Agents (value‑add):** LangChain, OpenAI API, Gemini API, RAG pipelines, Prompt Engineering
+- **Tools:** VS Code, Git, Azure DevOps, Jira, Confluence, Selenium
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+*NeST Digital – Data & Intelligent Automation Team, Trivandrum* | Jul 2025 – Present  
+- Designed, built, and deployed **5+ enterprise Power Apps** (3 Canvas, 2 Model‑Driven) supporting PMO opportunity tracking, project lifecycle, and resource‑management workflows, achieving a 30 % reduction in manual coordination.  
+- Developed **10+ Power Automate cloud flows** for multi‑level approvals, status transitions, and real‑time Dataverse updates, automating end‑to‑end business processes and eliminating duplicate data entry.  
+- Configured **Dataverse data model** as a single source of truth; implemented security roles, business rules, and calculated fields to ensure data integrity and compliance.  
+- Created **Microsoft Teams Adaptive Cards** and custom connectors enabling users to submit approvals and interact with the PMO system directly within Teams, increasing response speed by 45 %.  
+- Conducted requirement‑gathering workshops with HR, delivery, and leadership stakeholders; translated functional specifications into technical designs and documented solution architecture.  
+- Managed solution lifecycle using **ALM Toolkit** and Git, performed unit testing, UAT support, and production deployment following CI/CD best practices.  
+- Provided end‑user training and created user guides, driving 95 % adoption across the organization.
+
+**Data Analyst Trainee**  
+*Quest Innovative Solutions, Trivandrum* | Mar 2025 – Jul 2025  
+- Built Power BI dashboards and automated data pipelines using Python (Pandas, NumPy) and SQL, delivering actionable insights for senior management.  
+
+**Executive Trainee**  
+*ESAF Small Finance Bank, Malappuram* | Aug 2024 – Mar 2025  
+- Gained exposure to enterprise compliance workflows and process documentation, reinforcing a strong foundation in regulated business environments.
+
+---
+
+### SELECTED PROJECTS  
+
+**MARC – Local AI Coding Assistant** – Python, Ollama, Prompt‑toolkit  
+- Developed a privacy‑first, on‑device LLM coding assistant with intent routing and sliding‑window memory; showcases expertise in prompt engineering and low‑code integration.
+
+**YoctoGPT – Embedded Linux RAG Assistant** – Python, Gemini, ChromaDB  
+- Implemented a citation‑backed RAG pipeline using vector search and persistent session memory; highlights ability to build robust knowledge‑driven AI solutions.
+
+---
+
+### EDUCATION  
+**B.Tech, Computer Science Engineering** – Mar Baselios Institute of Technology & Science, Ernakulam | 2020 – 2024 | CGPA 7.37  
+
+---
+
+### ACHIEVEMENTS  
+- Winner, College Ideathon – Project Innovation  
+- Completed Accenture North America Virtual Internship (Forage)  
+- Active Member, Institution’s Innovation Council (IEDC)  
+
+---
+
+### LANGUAGES  
+English • Malayalam • Hindi • Tamil

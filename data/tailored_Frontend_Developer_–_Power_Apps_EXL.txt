@@ -1,0 +1,78 @@
+TAILORED FOR: Frontend Developer – Power Apps @ EXL
+JOB URL: https://in.linkedin.com/jobs/view/frontend-developer-%E2%80%93-power-apps-at-exl-4373581271
+MATCH SCORE: 85
+============================================================
+
+**B S Krishnesh**  
+AI Agent Developer | Power Platform Developer | Automation Engineer  
+Trivandrum, India | +91 86063 27850 | krishkrishnesh8@gmail.com | linkedin.com/in/bskrishnesh | github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY  
+Results‑driven Power Apps developer with 1 + year of enterprise experience delivering high‑impact Canvas and model‑driven applications, Power Automate flows, and Dataverse data models. Proven ability to translate business requirements into intuitive, responsive front‑end solutions, enhance user adoption through Microsoft Teams Adaptive Cards, and optimize performance with custom JavaScript. Adept at collaborating in agile teams, gathering stakeholder feedback, and maintaining solutions in fast‑moving environments. Ready to drive EXL’s Power Apps initiatives and elevate end‑user experiences.
+
+---
+
+### TECHNICAL SKILLS  
+
+- **Power Platform:** Power Apps (Canvas & Model‑driven), Power Automate, Dataverse, Power BI, Microsoft Teams (Adaptive Cards)  
+- **Frontend Development:** JavaScript, HTML5, CSS3, responsive UI design, custom controls, client‑side form logic  
+- **Microsoft Ecosystem:** Microsoft 365, Azure, Dynamics 365, Copilot Studio, SharePoint integration  
+- **Agile & DevOps:** Scrum, Azure DevOps, Git, CI/CD pipelines, unit & functional testing  
+- **Programming & Tools:** Python, C#, SQL, VS Code, prompt_toolkit, Pandas, NumPy  
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+*NeST Digital – Data & Intelligent Automation Team, Trivandrum*  
+*Jul 2025 – Present*  
+
+- Designed, built, and deployed **Canvas and model‑driven Power Apps** for an enterprise PMO platform, delivering intuitive UI that reduced cross‑team coordination time by 30 %.  
+- Developed **5+ end‑to‑end Power Automate cloud flows** for multi‑level approvals, status transitions, and real‑time Dataverse updates, ensuring 99 % process reliability.  
+- Created **Microsoft Teams Adaptive Cards** enabling users to approve requests and interact with the PMO system directly within Teams, boosting adoption and response speed.  
+- Implemented **custom JavaScript** for dynamic form switching, conditional field population, and enhanced user experience in Canvas apps, meeting accessibility standards.  
+- Consolidated disparate business workflows into a **single Dataverse data model**, establishing a unified source of truth and eliminating manual data errors.  
+- Collaborated in a **5‑member agile squad**, participating in sprint planning, daily stand‑ups, and retrospectives; translated stakeholder requirements into technical specifications and user stories.  
+
+**Data Analyst Trainee**  
+*Quest Innovative Solutions, Trivandrum*  
+*Mar 2025 – Jul 2025*  
+
+- Produced interactive Power BI dashboards and reports that informed leadership decisions, leveraging SQL and Python (Pandas, NumPy) for data transformation.  
+
+**Executive Trainee**  
+*ESAF Small Finance Bank, Malappuram*  
+*Aug 2024 – Mar 2025*  
+
+- Gained exposure to enterprise compliance workflows and process documentation, building a foundation for business‑process automation.  
+
+---
+
+### SELECTED PROJECTS  
+
+- **MARC – Local AI Coding Assistant** (Python, Ollama, prompt_toolkit) – Built a privacy‑first, terminal‑based AI assistant with custom intent routing and sliding‑window memory, showcasing strong problem‑solving and UI interaction skills.  
+- **YoctoGPT – Embedded Linux RAG Assistant** (Python, Gemini, ChromaDB) – Developed a CLI‑based retrieval‑augmented generation tool with persistent session memory, emphasizing efficient data handling and user‑centric design.  
+
+---
+
+### EDUCATION  
+
+**B.Tech, Computer Science Engineering**  
+Mar Baselious Institute of Technology & Science, Ernakulam – CGPA 7.37 (2020 – 2024)  
+
+---
+
+### ACHIEVEMENTS  
+
+- Winner, College Ideathon Competition – recognized for innovative project delivery.  
+- Completed Accenture North America Virtual Internship (Forage).  
+- Active member, Institution’s Innovation Council (IEDC).  
+
+---
+
+### LANGUAGES  
+
+English | Malayalam | Hindi | Tamil

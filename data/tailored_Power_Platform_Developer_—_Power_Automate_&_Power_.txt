@@ -1,0 +1,77 @@
+TAILORED FOR: Power Platform Developer — Power Automate & Power Apps @ McLaren Strategic Solutions (MSS)
+JOB URL: https://in.linkedin.com/jobs/view/power-platform-developer-%E2%80%94-power-automate-power-apps-at-mclaren-strategic-solutions-mss-4417219055
+MATCH SCORE: 90
+============================================================
+
+**B S Krishnesh**  
+Power Platform Developer | Power Automate & Power Apps Specialist  
+Trivandrum, India • +91 86063 27850 • krishkrishnesh8@gmail.com  
+linkedin.com/in/bskrishnesh • github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY  
+Results‑driven Power Platform Developer with 1 + year of end‑to‑end experience designing, building, and deploying enterprise‑grade Power Apps and Power Automate solutions. Proven ability to translate business requirements into scalable Canvas and Model‑driven apps, automate complex multi‑stage approval workflows, and centralize data in Dataverse. Skilled in creating Teams Adaptive Cards, extending apps with JavaScript, and delivering solutions in an Agile environment. Passionate about leveraging low‑code platforms to accelerate digital transformation and improve operational efficiency.
+
+---
+
+### TECHNICAL SKILLS  
+
+- **Power Platform:** Power Apps (Canvas & Model‑driven), Power Automate, Dataverse, Power BI, Teams Adaptive Cards, Power Apps Component Framework (PCF)  
+- **Microsoft Ecosystem:** Microsoft 365, Azure, Dynamics 365, Copilot Studio, Azure DevOps (ALM)  
+- **Programming & Scripting:** Python, C#, JavaScript, SQL, HTML/CSS  
+- **Tools & Libraries:** Git, VS Code, Selenium, prompt_toolkit, Pandas, NumPy  
+- **AI & Automation (additional):** LangChain, OpenAI API, Ollama (local LLMs), RAG pipelines  
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+*NeST Digital – Data & Intelligent Automation Team, Trivandrum* | Jul 2025 – Present  
+- Designed and delivered a company‑wide PMO solution on Power Apps (Canvas & Model‑driven) that supports leadership, HR, and delivery teams, achieving a 30 % reduction in manual coordination.  
+- Built and owned three core modules—Opportunity Tracking, Project Lifecycle, and Resource Management—using Dataverse as the single source of truth and implementing data validation rules to ensure data integrity.  
+- Developed 5+ Power Automate cloud flows for multi‑level approvals, status transitions, and automated notifications, reducing approval cycle time by 45 %.  
+- Created Microsoft Teams Adaptive Cards for real‑time approval actions, increasing user adoption and response speed within Teams.  
+- Enhanced Canvas app UX with client‑side JavaScript for dynamic form rendering, conditional field population, and responsive UI behavior.  
+- Collaborated in a 5‑member Agile squad, participating in sprint planning, backlog grooming, and daily stand‑ups; delivered features on schedule and maintained comprehensive solution documentation.  
+
+**Data Analyst Trainee**  
+*Quest Innovative Solutions, Trivandrum* | Mar 2025 – Jul 2025  
+- Performed data extraction, transformation, and visualization using Python (Pandas, NumPy), SQL, and Power BI, delivering dashboards that informed executive decision‑making.  
+- Automated report generation through Power Automate, cutting manual reporting effort by 60 %.  
+
+**Executive Trainee**  
+*ESAF Small Finance Bank, Malappuram* | Aug 2024 – Mar 2025  
+- Gained exposure to enterprise compliance workflows and process documentation, reinforcing a strong foundation in regulated business environments.  
+
+---
+
+### SELECTED PROJECTS  
+
+**MARC – Local AI Coding Assistant** (Python, Ollama, prompt_toolkit)  
+- Developed a privacy‑first, on‑device AI coding assistant; integrated an intent router and sliding‑window memory to enable precise code generation and editing without cloud calls.  
+
+**YoctoGPT – Embedded Linux RAG Assistant** (Python, Gemini, ChromaDB)  
+- Built a CLI‑based Retrieval‑Augmented Generation tool that delivers citation‑backed answers from curated Yocto Project documentation, employing vector search with all‑MiniLM‑L6‑v2 embeddings.  
+
+---
+
+### EDUCATION  
+
+**B.Tech, Computer Science Engineering** – Mar Baselios Institute of Technology & Science, Ernakulam  
+CGPA: 7.37 | 2020 – 2024  
+
+---
+
+### ACHIEVEMENTS  
+
+- Winner, College Ideathon Competition (project innovation)  
+- Completed Accenture North America Virtual Internship (Forage)  
+- Active member, Institution’s Innovation Council (IEDC)  
+
+---
+
+### LANGUAGES  
+
+English • Malayalam • Hindi • Tamil

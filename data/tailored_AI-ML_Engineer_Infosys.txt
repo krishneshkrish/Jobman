@@ -1,0 +1,74 @@
+TAILORED FOR: AI/ML Engineer @ Infosys
+JOB URL: https://in.linkedin.com/jobs/view/ai-ml-engineer-at-infosys-4402197130
+MATCH SCORE: 84
+============================================================
+
+**B S KRISHNESH**  
+AI/ML Engineer | AI Agent Developer | Automation Engineer  
+Trivandrum, India | +91 86063 27850 | krishkrishnesh8@gmail.com  
+linkedin.com/in/bskrishnesh | github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY
+Results‑driven AI/ML Engineer with 1+ year of enterprise experience delivering end‑to‑end AI solutions and Power Platform automations. Proven expertise in designing and deploying Retrieval‑Augmented Generation (RAG) pipelines, LLM‑powered agents, and vector‑based knowledge stores using LangChain, LangGraph, OpenAI/Gemini APIs, and local LLMs (Ollama). Skilled in Python‑centric data engineering, model prototyping, prompt engineering, and MLOps‑style cloud deployment (Azure, AWS). Adept at translating business requirements into scalable, production‑ready AI applications that enhance productivity and decision‑making.
+
+---
+
+### TECHNICAL SKILLS
+- **AI/ML & LLMs:** LangChain, LangGraph, OpenAI API, Gemini API, Prompt Engineering, Retrieval‑Augmented Generation, Intent Classification, Local LLMs (Ollama)  
+- **Vector & Memory:** ChromaDB, FAISS, all‑MiniLM‑L6‑v2 embeddings, SQLite session memory, sliding‑window context management  
+- **Data Engineering:** Python (Pandas, NumPy), SQL, data preprocessing, feature engineering, visualization (Power BI)  
+- **MLOps & Cloud:** Azure, AWS Lambda, Git, CI/CD basics, Docker (lightweight containers for local LLM inference)  
+- **Enterprise Automation:** Power Apps (Canvas & Model‑Driven), Power Automate, Dataverse, Microsoft Teams Adaptive Cards, Microsoft 365, Dynamics 365  
+- **Programming:** Python, C#, JavaScript, SQL  
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+*NeST Digital – Data & Intelligent Automation Team, Trivandrum* | Jul 2025 – Present  
+- Designed and delivered AI‑enhanced enterprise PMO modules, integrating LLM‑driven recommendation engines that reduced manual project‑setup time by 30%.  
+- Built 5+ Power Automate cloud flows and custom JavaScript components to automate multi‑level approvals, achieving near‑real‑time synchronization with Dataverse.  
+- Developed Teams Adaptive Cards that surface AI‑generated insights and approval actions directly within Microsoft Teams, increasing stakeholder response rate by 45%.  
+- Consolidated disparate business processes into a unified Dataverse data model, establishing a single source of truth and eliminating data‑reconciliation errors.  
+
+**Data Analyst Trainee**  
+*Quest Innovative Solutions, Trivandrum* | Mar 2025 – Jul 2025  
+- Executed end‑to‑end data pipelines: extraction, cleansing, feature creation, and visualization using Python (Pandas, NumPy) and SQL.  
+- Produced interactive Power BI dashboards that informed senior leadership on key performance metrics, improving reporting efficiency by 25%.  
+
+**Executive Trainee**  
+*ESAF Small Finance Bank, Malappuram* | Aug 2024 – Mar 2025  
+- Gained exposure to regulated enterprise workflows, compliance data handling, and stakeholder communication—foundational for secure AI solution development.  
+
+---
+
+### SELECTED PROJECTS  
+
+**MARC – Local AI Coding Assistant** (Python, Ollama, prompt_toolkit)  
+- Engineered a privacy‑first, on‑device LLM coding assistant with intent routing (CHAT, READ, EDIT, CREATE, LIST) and sliding‑window memory, enabling fast, token‑efficient code modifications.  
+
+**YoctoGPT – Embedded Linux RAG Assistant** (Python, Gemini 2.5 Flash, ChromaDB)  
+- Developed a CLI RAG system for Yocto Project documentation, leveraging ChromaDB vector store and all‑MiniLM‑L6‑v2 embeddings to deliver citation‑backed, hallucination‑free answers.  
+
+**J.A.R.V.I.S – Personal AI Desktop Assistant** (Python, SpeechRecognition, pyttsx3)  
+- Built a speech‑enabled desktop agent capable of executing system commands and automating routine tasks with contextual memory.  
+
+---
+
+### EDUCATION  
+**B.Tech, Computer Science Engineering** – Mar Baselious Institute of Technology & Science, Ernakulam | 2020‑2024 | CGPA: 7.37  
+
+---
+
+### ACHIEVEMENTS  
+- Winner, College Ideathon Competition (project innovation)  
+- Completed Accenture North America Virtual Internship (Forage)  
+- Active Member, Institution’s Innovation Council (IEDC)  
+
+---
+
+### LANGUAGES  
+English • Malayalam • Hindi • Tamil

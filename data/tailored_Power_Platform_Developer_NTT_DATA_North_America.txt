@@ -1,0 +1,83 @@
+TAILORED FOR: Power Platform Developer @ NTT DATA North America
+JOB URL: https://in.linkedin.com/jobs/view/power-platform-developer-at-ntt-data-north-america-4411618555
+MATCH SCORE: 85
+============================================================
+
+**B S Krishnesh**  
+AI & Power Platform Developer | Automation Engineer  
+Trivandrum, India | +91 86063 27850 | krishkrishnesh8@gmail.com | linkedin.com/in/bskrishnesh | github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY  
+Results‑driven Power Platform Developer with 1 + year of end‑to‑end experience delivering enterprise‑grade Power Apps, Power Automate, Dataverse, and Power BI solutions in agile teams. Proven ability to translate business requirements into scalable low‑code applications, automate complex workflows, and integrate with Microsoft 365, Azure, and Dynamics 365. Strong background in AI‑augmented automation (LangChain, OpenAI) adds a unique edge for building intelligent, data‑driven processes. Seeking to contribute technical expertise and stakeholder‑focused delivery to NTT DATA North America.
+
+---
+
+### CORE COMPETENCIES  
+
+- **Power Platform:** Canvas & Model‑Driven Apps, Power Automate (cloud & desktop), Dataverse, Power BI, Adaptive Cards, Custom Connectors  
+- **Microsoft Ecosystem:** Microsoft 365, Azure AD, Dynamics 365, Teams integration, Copilot Studio  
+- **Solution Lifecycle:** Requirements analysis, solution design, development, testing, deployment, governance, documentation, user training  
+- **Automation & Integration:** Multi‑step approvals, real‑time notifications, API‑based data sync, RPA concepts  
+- **Programming & Data:** Python, C#, JavaScript, SQL, REST APIs, Git, VS Code, Azure Functions, AWS Lambda  
+- **AI & Agents (added value):** LangChain, LangGraph, OpenAI/Gemini APIs, RAG pipelines, prompt engineering, local LLM deployment (Ollama)  
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+*NeST Digital – Data & Intelligent Automation Team, Trivandrum* | Jul 2025 – Present  
+
+- Designed and delivered a company‑wide **PMO platform** using Power Apps (Canvas & Model‑Driven) and Dataverse, enabling leadership, HR, and delivery teams to manage opportunities, project lifecycles, and resource allocation.  
+- Developed **5+ end‑to‑end Power Automate flows** for multi‑level approvals, status transitions, and automated email/Teams notifications, reducing manual processing time by 30 %.  
+- Built **Microsoft Teams Adaptive Cards** that surface approval actions directly within Teams, increasing response speed and user adoption.  
+- Implemented client‑side JavaScript for dynamic form behavior and conditional field population, enhancing UI/UX and reducing data entry errors.  
+- Consolidated disparate spreadsheets and legacy processes into a **single source of truth in Dataverse**, achieving near‑zero manual coordination errors.  
+- Collaborated with business analysts and stakeholders in Scrum ceremonies, translating functional requirements into technical specifications and solution backlogs.  
+
+**Data Analyst Trainee**  
+*Quest Innovative Solutions, Trivandrum* | Mar 2025 – Jul 2025  
+
+- Created interactive Power BI dashboards and reports that visualized key performance metrics, supporting data‑driven decision‑making for senior leadership.  
+- Performed data cleansing, transformation, and modeling using Python (Pandas, NumPy) and SQL, ensuring data integrity for downstream Power Platform solutions.  
+
+**Executive Trainee**  
+*ESAF Small Finance Bank, Malappuram* | Aug 2024 – Mar 2025  
+
+- Gained exposure to enterprise compliance workflows and process documentation, laying a foundation for building compliant Power Platform solutions in regulated environments.  
+
+---
+
+### SELECTED PROJECTS (Relevant to Power Platform)  
+
+- **MARC – Local AI Coding Assistant** – Engineered a privacy‑first, on‑device LLM assistant (Ollama) with intent routing and session memory; demonstrated ability to integrate AI services into low‑code environments for intelligent automation.  
+- **YoctoGPT – Embedded Linux RAG Assistant** – Developed a CLI‑based Retrieval‑Augmented Generation pipeline using ChromaDB and Gemini API; showcased expertise in vector search and prompt engineering that can enhance Power Virtual Agents and Copilot integrations.  
+
+---
+
+### EDUCATION  
+
+**B.Tech., Computer Science Engineering**  
+Mar Baselios Institute of Technology & Science, Ernakulam | 2020 – 2024  
+CGPA: 7.37  
+
+---
+
+### ACHIEVEMENTS & AFFILIATIONS  
+
+- Winner – College Ideathon (project innovation)  
+- Completed Accenture North America Virtual Internship (Forage)  
+- Active Member – Institution’s Innovation Council (IEDC)  
+
+---
+
+### TECHNICAL TOOLSET  
+
+- **Power Platform:** Power Apps, Power Automate, Dataverse, Power BI, Teams Adaptive Cards, Power Virtual Agents  
+- **Microsoft Stack:** Azure AD, Dynamics 365, Microsoft 365, Copilot Studio  
+- **Languages & Frameworks:** Python, C#, JavaScript, SQL, REST, LangChain, LangGraph  
+- **DevOps & Collaboration:** Git, VS Code, Azure Functions, AWS Lambda, Selenium  
+
+---

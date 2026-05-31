@@ -1,0 +1,79 @@
+TAILORED FOR: Back End Developer @ Zion
+JOB URL: https://in.linkedin.com/jobs/view/back-end-developer-at-zion-4418701380
+MATCH SCORE: 85
+============================================================
+
+**B S Krishnesh**  
+AI & Power Platform Engineer | Backend Developer  
+Trivandrum, India • +91 86063 27850 • krishkrishnesh8@gmail.com • linkedin.com/in/bskrishnesh • github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY  
+Backend‑focused software engineer with 1 + year of enterprise experience delivering end‑to‑end Power Platform solutions and robust data‑centric applications. Proven ability to design, develop, and maintain RESTful APIs, Azure Functions, and Dataverse data models while integrating Power Apps, Power Automate, and Microsoft Teams. Strong command of C#, Python, SQL, and modern DevOps practices (CI/CD, Git). Passionate about building scalable, secure back‑end services that accelerate digital transformation.
+
+---
+
+### TECHNICAL SKILLS  
+
+- **Backend & APIs:** C#, .NET Core, Azure Functions, REST/GraphQL services, SQL Server, Dataverse, Entity Framework  
+- **Power Platform:** Power Apps (Canvas & Model‑Driven), Power Automate, Power BI, Adaptive Cards, Dataverse modeling, Microsoft Teams integration  
+- **Cloud & DevOps:** Azure (App Service, Functions, Storage), CI/CD pipelines (GitHub Actions, Azure DevOps), Git, VS Code  
+- **AI & Data:** LangChain, LangGraph, OpenAI/Gemini APIs, RAG pipelines, ChromaDB, FAISS, embeddings, prompt engineering  
+- **Programming:** Python, JavaScript, TypeScript, SQL, HTML/CSS  
+- **Tools:** Git, Selenium, AWS Lambda (conceptual), prompt_toolkit, Pandas, NumPy  
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+*NeST Digital – Data & Intelligent Automation Team, Trivandrum* | Jul 2025 – Present  
+- Designed and implemented **backend data models** in **Dataverse**, establishing a single source of truth for PMO, opportunity tracking, and resource‑management modules.  
+- Developed **Azure Functions** and **C#/.NET** services to expose **REST APIs** consumed by Power Apps and Power Automate flows, improving data latency by 30 %.  
+- Built **5+ Power Automate cloud flows** with multi‑level approval logic, status transitions, and automated notifications, reducing manual coordination effort by 45 %.  
+- Created **Microsoft Teams Adaptive Cards** and integrated them with backend APIs, enabling in‑app approvals and real‑time status updates.  
+- Implemented **client‑side JavaScript** for dynamic form rendering and conditional field population in Canvas Apps, enhancing user experience and data integrity.  
+- Collaborated in a **Scrum‑based agile team**, participating in sprint planning, code reviews, and CI/CD pipeline maintenance (GitHub Actions).  
+
+**Data Analyst Trainee**  
+*Quest Innovative Solutions, Trivandrum* | Mar 2025 – Jul 2025  
+- Engineered **SQL queries** and Python data pipelines (Pandas, NumPy) to cleanse and transform large datasets for reporting.  
+- Delivered interactive **Power BI dashboards** linked to Azure SQL, supporting executive decision‑making and operational KPI tracking.  
+
+**Executive Trainee**  
+*ESAF Small Finance Bank, Malappuram* | Aug 2024 – Mar 2025  
+- Gained exposure to enterprise compliance workflows and documented end‑to‑end business processes, laying groundwork for future automation initiatives.  
+
+---
+
+### SELECTED PROJECTS  
+
+**MARC – Local AI Coding Assistant** (Python, Ollama, prompt_toolkit)  
+- Built a **privacy‑first, on‑device AI coding assistant** with a custom LLM intent router, enabling code generation, editing, and file operations via a terminal UI.  
+- Implemented **session memory** with SQLite and sliding‑window context management to support long‑running interactive sessions.  
+
+**YoctoGPT – Embedded Linux RAG Assistant** (Python, Gemini, ChromaDB)  
+- Developed a **CLI‑based Retrieval‑Augmented Generation** system that indexes Yocto Project documentation in **ChromaDB** and serves grounded answers via Gemini 2.5 Flash.  
+- Integrated **SQLite‑backed conversation memory** for persistent multi‑turn interactions, reducing hallucinations and improving developer productivity.  
+
+---
+
+### EDUCATION  
+
+**B.Tech, Computer Science Engineering** – Mar Baselious Institute of Technology & Science, Ernakulam  
+CGPA: 7.37 | 2020 – 2024  
+
+---
+
+### ACHIEVEMENTS & ACTIVITIES  
+
+- Winner – College Ideathon Competition (innovation project)  
+- Completed Accenture North America Virtual Internship (Forage)  
+- Active Member – Institution’s Innovation Council (IEDC)  
+
+---
+
+### LANGUAGES  
+
+English • Malayalam • Hindi • Tamil

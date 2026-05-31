@@ -1,0 +1,77 @@
+TAILORED FOR: Technical Specialist-App Development @ Birlasoft
+JOB URL: https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4410813372
+MATCH SCORE: 85
+============================================================
+
+**B S Krishnesh**  
+AI Agent & Power Platform Developer | Automation Engineer  
+Trivandrum, India • +91 86063 27850 • krishkrishnesh8@gmail.com  
+LinkedIn: linkedin.com/in/bskrishnesh • GitHub: github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY
+Results‑driven Power Platform specialist with 1 + year of end‑to‑end experience delivering enterprise‑grade Power Apps, Power Automate, and Dataverse solutions. Proven ability to translate business requirements into low‑code applications, automate complex workflows, and integrate solutions with Microsoft Teams and Power BI. Strong background in AI‑enhanced automation (LangChain, OpenAI) adds value to intelligent app development. Seeking to leverage technical expertise and agile delivery skills as a **Technical Specialist – App Development** at Birlasoft.
+
+---
+
+### TECHNICAL SKILLS
+- **Power Platform:** Power Apps (Canvas & Model‑Driven), Power Automate, Dataverse, Power BI, Teams Adaptive Cards, Power Apps Component Framework (PCF)  
+- **Microsoft Ecosystem:** Microsoft 365, Azure (App Service, Functions), Dynamics 365, Copilot Studio, Azure DevOps (ALM)  
+- **Programming & Scripting:** Python, C#, JavaScript, SQL, PowerShell  
+- **AI & Automation:** LangChain, LangGraph, OpenAI/Gemini APIs, RAG pipelines, Prompt Engineering, Local LLMs (Ollama)  
+- **Data & Vector Stores:** ChromaDB, FAISS, all‑MiniLM‑L6‑v2 embeddings, SQLite, Pandas, NumPy  
+- **Tools:** Git, VS Code, Azure DevOps, Selenium, AWS Lambda, Microsoft Teams (Adaptive Cards)
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+NeST Digital, Data & Intelligent Automation Team, Trivandrum, India  
+*Jul 2025 – Present*  
+- Designed and delivered a **enterprise PMO platform** using Power Apps (Canvas & Model‑Driven) and Dataverse, enabling leadership, HR, and delivery teams to manage opportunities, project lifecycles, and resources.  
+- Owned end‑to‑end **solution architecture** for 2‑3 core modules, translating functional specifications into low‑code applications and reducing cross‑team coordination effort by 30 %.  
+- Built **5+ Power Automate cloud flows** for multi‑level approvals, status transitions, and real‑time Dataverse updates, adhering to governance and security standards.  
+- Developed **Microsoft Teams Adaptive Cards** for approval submission and status notifications, driving a 40 % increase in user adoption and faster response times.  
+- Implemented client‑side **JavaScript** for dynamic form behavior, conditional field population, and enhanced UI/UX in Canvas Apps.  
+- Consolidated disparate business processes into a **single source of truth** in Dataverse, eliminating manual errors and supporting audit compliance.  
+
+**Data Analyst Trainee**  
+Quest Innovative Solutions, Trivandrum, India  
+*Mar 2025 – Jul 2025*  
+- Conducted full‑cycle data analysis (ETL, modeling, visualization) using Python (Pandas, NumPy), SQL, and Power BI to produce interactive dashboards for senior leadership.  
+- Automated data refresh pipelines, improving reporting turnaround time by 25 %.  
+
+**Executive Trainee**  
+ESAF Small Finance Bank, Malappuram, Kerala  
+*Aug 2024 – Mar 2025*  
+- Gained exposure to enterprise compliance workflows and process documentation, laying groundwork for future business process automation initiatives.  
+
+---
+
+### SELECTED PROJECTS  
+
+**MARC – Local AI Coding Assistant** (Python, Ollama, prompt_toolkit)  
+- Created a privacy‑first, on‑device AI coding assistant with **LLM intent routing**, enabling command classification (CHAT, READ, EDIT, CREATE, LIST) and token‑efficient edit operations.  
+
+**YoctoGPT – Embedded Linux RAG Assistant** (Python, Gemini 2.5 Flash, ChromaDB)  
+- Developed a **RAG pipeline** with ChromaDB vector store and all‑MiniLM‑L6‑v2 embeddings, delivering citation‑backed, hallucination‑free answers for Yocto Project documentation.  
+
+---
+
+### EDUCATION  
+**B.Tech, Computer Science Engineering** – Mar Baselious Institute of Technology & Science, Ernakulam  
+*2020 – 2024* | CGPA: 7.37  
+
+---
+
+### ACHIEVEMENTS & CERTIFICATIONS  
+- Winner – College Ideathon (Project Innovation)  
+- Completed Accenture North America Virtual Internship (Forage)  
+- Active Member – Institution’s Innovation Council (IEDC)  
+
+---
+
+### LANGUAGES  
+English (fluent) • Malayalam (native) • Hindi (professional) • Tamil (conversational)

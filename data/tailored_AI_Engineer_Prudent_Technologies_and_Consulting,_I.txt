@@ -1,0 +1,85 @@
+TAILORED FOR: AI Engineer @ Prudent Technologies and Consulting, Inc.
+JOB URL: https://in.linkedin.com/jobs/view/ai-engineer-at-prudent-technologies-and-consulting-inc-4418242692
+MATCH SCORE: 85
+============================================================
+
+**B S Krishnesh**  
+AI Agent Developer | Prompt Engineer | Automation Engineer  
+Trivandrum, India | +91 86063 27850 | krishkrishnesh8@gmail.com | linkedin.com/in/bskrishnesh | github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY  
+AI Engineer with 2 + years of hands‑on experience designing, deploying, and optimizing large‑language‑model (LLM) solutions. Proven expertise in **prompt engineering**, **RAG pipelines**, **LLM routing**, and **memory management** using LangChain, LangGraph, OpenAI & Gemini APIs, and local inference via Ollama. Delivered production‑grade AI assistants and vector‑search back‑ends, and built enterprise‑scale Power Platform automations that integrate AI‑driven decision flows. Adept at translating business requirements into scalable, token‑efficient AI workflows and collaborating in agile, cross‑functional teams.
+
+---
+
+### TECHNICAL SKILLS  
+
+- **LLM & Prompt Engineering:** OpenAI API, Gemini API, LangChain, LangGraph, prompt design, intent classification, token optimization, LLM routing, local LLM deployment (Ollama)  
+- **Retrieval‑Augmented Generation (RAG):** ChromaDB, FAISS, all‑MiniLM‑L6‑v2 embeddings, SQLite session memory, sliding‑window context management  
+- **AI Agent Development:** Memory‑augmented agents, multi‑step tool usage, agentic workflow orchestration  
+- **Automation & Integration:** Power Apps (Canvas & Model‑Driven), Power Automate, Dataverse, Microsoft Teams Adaptive Cards, Azure, Microsoft 365, Dynamics 365, Copilot Studio  
+- **Programming & Data:** Python, C#, JavaScript, SQL, Pandas, NumPy, Git, VS Code, AWS Lambda, Selenium  
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+*NeST Digital, Data & Intelligent Automation Team – Trivandrum, India*  
+*Jul 2025 – Present*  
+- Designed and delivered core PMO modules that embed AI‑enhanced approval flows, cutting cross‑team coordination time by 30 %.  
+- Built 5+ **Power Automate** cloud flows with multi‑level approval logic, real‑time Dataverse updates, and webhook integration for LLM‑driven notifications.  
+- Developed Microsoft Teams Adaptive Cards enabling users to trigger AI‑generated insights and approvals directly within Teams, boosting adoption and response speed.  
+- Implemented client‑side JavaScript for dynamic form behavior, improving UI responsiveness for AI‑augmented Canvas Apps.  
+- Consolidated disparate business processes into a unified Dataverse model, establishing a single source of truth and eliminating manual errors.  
+
+**Data Analyst Trainee**  
+*Quest Innovative Solutions – Trivandrum, India*  
+*Mar 2025 – Jul 2025*  
+- Executed end‑to‑end data pipelines (Python → SQL → Power BI) to surface KPI dashboards for senior leadership.  
+- Applied statistical analysis and visual storytelling to support data‑driven decision making.  
+
+**Executive Trainee**  
+*ESAF Small Finance Bank – Malappuram, Kerala*  
+*Aug 2024 – Mar 2025*  
+- Gained exposure to compliance‑focused workflow automation and stakeholder communication in a regulated environment.  
+
+---
+
+### SELECTED PROJECTS  
+
+**MARC – Local AI Coding Assistant** (Python, Ollama, prompt_toolkit)  
+- Built a privacy‑first, on‑device LLM coding assistant; all inference runs locally via Ollama.  
+- Engineered an **LLM Intent Router** that classifies user input into intents (CHAT, READ, EDIT, CREATE, LIST) using a lightweight local model, enabling precise prompt selection and token savings.  
+- Implemented sliding‑window memory with intelligent truncation to prevent RAM overflow during long coding sessions.  
+
+**YoctoGPT – Embedded Linux RAG Assistant** (Python, Gemini 2.5 Flash, ChromaDB)  
+- Created a CLI RAG system for Yocto Project engineers, ingesting official docs, Stack Overflow threads, and curated bug‑fix datasets into **ChromaDB**.  
+- Utilized **all‑MiniLM‑L6‑v2** embeddings and Gemini LLM to deliver citation‑backed, hallucination‑free answers.  
+- Integrated SQLite‑backed session memory for persistent multi‑turn conversations without re‑loading the vector store.  
+
+**J.A.R.V.I.S – Personal AI Desktop Assistant** (Python, SpeechRecognition, pyttsx3)  
+- Developed a speech‑enabled desktop assistant capable of executing system commands, answering queries, and automating routine tasks with contextual memory.  
+
+---
+
+### EDUCATION  
+
+**B.Tech, Computer Science Engineering** – Mar Baselious Institute of Technology & Science, Ernakulam  
+*2020 – 2024* | CGPA 7.37  
+
+---
+
+### ACHIEVEMENTS  
+
+- Winner, College Ideathon – Project Innovation  
+- Completed Accenture North America Virtual Internship (Forage)  
+- Active Member, Institution’s Innovation Council (IEDC)  
+
+---
+
+### LANGUAGES  
+
+English | Malayalam | Hindi | Tamil

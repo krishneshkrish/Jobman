@@ -1,0 +1,93 @@
+TAILORED FOR: Custom Software Engineer @ Accenture in India
+JOB URL: https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4419902804
+MATCH SCORE: 85
+============================================================
+
+**B S Krishnesh**  
+AI Agent & Power Platform Developer | Automation Engineer  
+Trivandrum, India • +91 86063 27850 • krishkrishnesh8@gmail.com  
+LinkedIn: linkedin.com/in/bskrishnesh • GitHub: github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY
+Results‑driven software engineer with 1 + year of enterprise experience delivering end‑to‑end Power Platform solutions on Microsoft 365/Azure. Proven ability to **design, develop, and deploy** Canvas & model‑driven Power Apps, complex Power Automate flows, and Dataverse data models that streamline PMO and resource‑management processes. Skilled in **agile delivery, stakeholder collaboration, solution governance, and user adoption**. Augments business automation with AI‑agent capabilities (LangChain, OpenAI) to create intelligent, scalable applications for Accenture’s digital transformation initiatives.
+
+---
+
+### CORE COMPETENCIES
+- **Power Platform:** Power Apps (Canvas & Model‑Driven), Power Automate, Dataverse, Power BI, Teams Adaptive Cards  
+- **Microsoft Ecosystem:** Microsoft 365, Azure, Dynamics 365, Copilot Studio, CI/CD (GitHub Actions)  
+- **Solution Delivery:** Requirements gathering, solution design, prototyping, testing, documentation, training, governance  
+- **Programming & Integration:** Python, C#, JavaScript, SQL, REST APIs, Azure Functions, Selenium  
+- **AI & Automation:** LangChain, LangGraph, OpenAI/Gemini APIs, RAG pipelines, prompt engineering, local LLMs (Ollama)  
+- **Agile Practices:** Scrum, sprint planning, cross‑functional team collaboration, stakeholder communication  
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+*NeST Digital – Data & Intelligent Automation Team, Trivandrum*  
+*Jul 2025 – Present*  
+
+- **Designed and delivered** a enterprise‑wide PMO platform using Canvas & model‑driven Power Apps, Dataverse, and Power Automate, adopted by leadership, HR, and delivery teams.  
+- **Owned end‑to‑end development** of 3 core modules (opportunity tracking, project lifecycle, resource management), reducing cross‑team coordination effort by 30 %.  
+- **Implemented 5+ Power Automate cloud flows** for multi‑level approvals, status transitions, and real‑time Dataverse updates, ensuring compliance with governance standards.  
+- **Created Microsoft Teams Adaptive Cards** for in‑app approvals and notifications, increasing response speed and user adoption by 25 %.  
+- **Developed client‑side JavaScript** for dynamic form rendering and conditional field logic, enhancing UI/UX and reducing form errors.  
+- **Consolidated fragmented workflows** into a single Dataverse data model, establishing a “single source of truth” and eliminating manual data reconciliation.  
+- **Collaborated in a 5‑member Agile squad**, participating in sprint planning, daily stand‑ups, and retrospectives; delivered features on schedule with zero critical defects.  
+- **Authored solution documentation, user guides, and training sessions**, driving smooth hand‑over and sustained adoption across business units.  
+
+**Data Analyst Trainee**  
+*Quest Innovative Solutions, Trivandrum*  
+*Mar 2025 – Jul 2025*  
+
+- Performed data extraction, transformation, and visualization using Python (Pandas, NumPy), SQL, and Power BI to support operational reporting.  
+- Built interactive dashboards that enabled leadership to monitor key performance indicators, improving decision‑making speed.  
+
+**Executive Trainee**  
+*ESAF Small Finance Bank, Malappuram*  
+*Aug 2024 – Mar 2025*  
+
+- Gained exposure to enterprise compliance workflows and documentation, reinforcing a strong foundation in regulated business processes.  
+
+---
+
+### SELECTED PROJECTS  
+
+**MARC – Local AI Coding Assistant** (Python, Ollama, prompt_toolkit)  
+- Developed a privacy‑first, on‑device AI coding assistant with an intent router and sliding‑window memory, enabling safe code generation and edit operations without cloud reliance.  
+
+**YoctoGPT – Embedded Linux RAG Assistant** (Python, Gemini 2.5 Flash, ChromaDB)  
+- Engineered a Retrieval‑Augmented Generation pipeline with vector search (FAISS) and persistent SQLite session memory, delivering citation‑backed answers for Yocto Project documentation.  
+
+**J.A.R.V.I.S – Personal AI Desktop Assistant** (Python, SpeechRecognition, pyttsx3)  
+- Built a voice‑enabled desktop assistant that automates system tasks, demonstrates contextual memory, and showcases integration of AI with everyday workflows.  
+
+---
+
+### EDUCATION  
+
+**B.Tech, Computer Science Engineering** – Mar Baselious Institute of Technology & Science, Ernakulam  
+*2020 – 2024* | CGPA: 7.37  
+
+---
+
+### ACHIEVEMENTS & AFFILIATIONS  
+
+- Winner – College Ideathon Competition (project innovation)  
+- Completed Accenture North America Virtual Internship (Forage)  
+- Active Member – Institution’s Innovation Council (IEDC)  
+
+---
+
+### TECHNICAL TOOLSET  
+
+- **Languages:** Python, C#, JavaScript, SQL  
+- **Platforms:** Power Apps, Power Automate, Dataverse, Azure, Microsoft 365, Dynamics 365  
+- **AI/ML:** LangChain, LangGraph, OpenAI API, Gemini API, Ollama, ChromaDB, FAISS, all‑MiniLM‑L6‑v2  
+- **Tools:** VS Code, Git, GitHub Actions, AWS Lambda, Selenium, Power BI, Teams Adaptive Cards  
+
+---

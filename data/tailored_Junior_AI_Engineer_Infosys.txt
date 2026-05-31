@@ -1,0 +1,89 @@
+TAILORED FOR: Junior AI Engineer @ Infosys
+JOB URL: https://in.linkedin.com/jobs/view/junior-ai-engineer-at-infosys-4418200862
+MATCH SCORE: 85
+============================================================
+
+**B S Krishnesh**  
+AI Engineer | Automation Developer  
+Trivandrum, India • +91 86063 27850 • krishkrishnesh8@gmail.com • linkedin.com/in/bskrishnesh • github.com/krishneshkrish  
+
+---
+
+### PROFESSIONAL SUMMARY  
+AI Engineer with 1 + year of hands‑on experience building production‑grade Large Language Model (LLM) pipelines, Retrieval‑Augmented Generation (RAG) systems, and agentic workflows using **LangChain, LangGraph, OpenAI & Gemini APIs**. Proven ability to design prompt‑engineered solutions, deploy local LLMs via **Ollama**, and manage vector‑store memory (ChromaDB, FAISS). Complemented by enterprise‑level automation experience on Microsoft Power Platform, delivering end‑to‑end business process solutions. Passionate about applying AI to solve real‑world problems at scale.
+
+---
+
+### TECHNICAL SKILLS  
+
+- **AI & LLMs:** LangChain, LangGraph, OpenAI API, Gemini API, Prompt Engineering, RAG pipelines, Intent Classification, Local LLM deployment (Ollama)  
+- **Vector & Memory:** ChromaDB, FAISS, all‑MiniLM‑L6‑v2 embeddings, SQLite‑backed session memory, sliding‑window context management  
+- **Programming:** Python, C#, JavaScript, SQL  
+- **Automation & Cloud:** Power Apps, Power Automate, Dataverse, Azure, AWS Lambda, Microsoft Teams (Adaptive Cards)  
+- **Data & Analytics:** Pandas, NumPy, Power BI, Git, VS Code, Selenium  
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+
+**Software Developer – Power Platform**  
+NeST Digital, Data & Intelligent Automation Team – Trivandrum, India  
+*Jul 2025 – Present*  
+
+- **Designed and delivered** an enterprise PMO platform that streamlined opportunity tracking, project lifecycle, and resource‑management workflows, reducing cross‑team coordination time by 30 %.  
+- **Developed** 5+ Power Automate cloud flows for multi‑level approvals, status transitions, and real‑time Dataverse updates, automating manual processes and improving data integrity.  
+- **Implemented** Microsoft Teams Adaptive Cards for in‑app approvals, increasing user adoption and response speed by 40 %.  
+- **Engineered** client‑side JavaScript components for dynamic form behavior in Canvas Apps, enhancing UI/UX and reducing support tickets.  
+- **Consolidated** fragmented business processes into a single Dataverse data model, establishing a unified source of truth and eliminating manual reconciliation errors.  
+
+**Data Analyst Trainee**  
+Quest Innovative Solutions – Trivandrum, India  
+*Mar 2025 – Jul 2025*  
+
+- Conducted end‑to‑end data pipelines (extraction, transformation, visualization) using Python (Pandas, NumPy) and SQL.  
+- Built interactive Power BI dashboards that delivered actionable insights to senior leadership, supporting data‑driven decision making.  
+
+**Executive Trainee**  
+ESAF Small Finance Bank – Malappuram, Kerala  
+*Aug 2024 – Mar 2025*  
+
+- Gained exposure to enterprise compliance workflows and documentation standards, reinforcing best practices for secure AI solution development.  
+
+---
+
+### SELECTED PROJECTS  
+
+**MARC – Local AI Coding Assistant** (Python, Ollama, Prompt‑toolkit)  
+- Built a privacy‑first, on‑device coding assistant that runs LLM inference locally, eliminating cloud dependency.  
+- Created an **LLM Intent Router** to classify user commands (CHAT, READ, EDIT, CREATE, LIST) and route them to appropriate execution modules.  
+- Developed a **sliding‑window memory** mechanism with intelligent context truncation, enabling long‑running sessions on resource‑constrained hardware.  
+
+**YoctoGPT – Embedded Linux RAG Assistant** (Python, Gemini 2.5 Flash, ChromaDB)  
+- Designed a CLI‑based Retrieval‑Augmented Generation system for Yocto Project engineers, delivering citation‑backed answers with zero hallucination.  
+- Populated a ChromaDB vector store with official documentation, curated Stack Overflow threads, and custom BitBake fix datasets.  
+- Integrated SQLite‑backed session memory for persistent multi‑turn conversations.  
+
+**J.A.R.V.I.S – Personal AI Desktop Assistant** (Python, SpeechRecognition, pyttsx3)  
+- Implemented a speech‑enabled desktop assistant capable of executing system commands, answering queries, and automating routine tasks with contextual memory.  
+
+---
+
+### EDUCATION  
+
+**B.Tech, Computer Science Engineering**  
+Mar Baselios Institute of Technology & Science, Ernakulam – CGPA 7.37  
+*2020 – 2024*  
+
+---
+
+### ACHIEVEMENTS & AFFILIATIONS  
+
+- Winner – College Ideathon (project innovation)  
+- Completed Accenture North America Virtual Internship (Forage)  
+- Active Member – Institution’s Innovation Council (IEDC)  
+
+---
+
+### LANGUAGES  
+
+English, Malayalam, Hindi, Tamil
