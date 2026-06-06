@@ -4,9 +4,15 @@ import asyncio
 import schedule
 import time
 import threading
+import os
 from config import SCAN_TIME
 from main import run_agent_cycle
 from bot.telegram_bot import run_bot
+
+# Auto-create required folders (important for Railway/cloud deployment)
+os.makedirs("data", exist_ok=True)
+os.makedirs("logs", exist_ok=True)
+print("[Startup] Folders ready ✅")
 
 def run_schedule():
     """Schedules daily job scan."""
