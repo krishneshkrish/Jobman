@@ -1,19 +1,27 @@
 # config.py — All settings in one place
+import os
 
 # ── Gemini ─────────────────────────────────────────────
 #GEMINI_API_KEY = "xxxxxxxx"          # aistudio.google.com
 #GEMINI_MODEL   = "gemini-3.5-flash"             # Free tier, fast
 
-OPENROUTER_API_KEY = "API KEy"  # openrouter.ai/keys
+#OPENROUTER_API_KEY = "API KEy"  # openrouter.ai/keys
 # Free models — pick one below (uncomment your choice):
-OPENROUTER_MODEL = "openrouter/auto"   # Fast, good quality
+#OPENROUTER_MODEL = "openrouter/auto"   # Fast, good quality
 # OPENROUTER_MODEL = "mistralai/mistral-7b-instruct:free"    # Alternative
 # OPENROUTER_MODEL = "google/gemma-3-12b-it:free"            # Google's free model
  
 
 # ── Telegram ───────────────────────────────────────────
-TELEGRAM_BOT_TOKEN  = "token"          # @BotFather on Telegram
-TELEGRAM_CHAT_ID    = "ID"            # @userinfobot to get this
+#TELEGRAM_BOT_TOKEN  = "token"          # @BotFather on Telegram
+#TELEGRAM_CHAT_ID    = "ID"            # @userinfobot to get this
+# ── OpenRouter ─────────────────────────────────────────
+OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY", "")
+OPENROUTER_MODEL   = os.environ.get("OPENROUTER_MODEL", "openrouter/auto")
+
+# ── Telegram ───────────────────────────────────────────
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+TELEGRAM_CHAT_ID   = os.environ.get("TELEGRAM_CHAT_ID", "")
 
 # ── Google Sheets (optional tracker) ───────────────────
 GOOGLE_SHEETS_CREDS = "credentials.json"        # From Google Cloud Console
