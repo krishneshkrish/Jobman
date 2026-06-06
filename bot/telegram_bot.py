@@ -19,8 +19,8 @@ def authorized(update: Update) -> bool:
 async def start(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
     if not authorized(update): return
     await update.message.reply_text(
-        "🤖 *JobAgent is online!*\n\n"
-        "I scan jobs daily and notify you. Here's what you can do:\n\n"
+        "<b>🤖 JobAgent is online!</b>\n\n"
+        "I scan jobs daily and notify you. Here is what you can do:\n\n"
         "/scan — Scan for new jobs right now\n"
         "/status — Today's summary\n"
         "/pending — Jobs needing your attention\n"
@@ -28,7 +28,7 @@ async def start(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
         "/pause — Pause auto-applying\n"
         "/resume_agent — Resume auto-applying\n"
         "/help — Show this message",
-        parse_mode="Markdown"
+        parse_mode="HTML"
     )
 
 # ── /help ──────────────────────────────────────────────
@@ -52,12 +52,12 @@ async def status(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
     summary = get_today_summary()
 
     msg = (
-        f"📊 *Today's Summary*\n\n"
+        f"<b>📊 Today's Summary</b>\n\n"
         f"✅ Auto-applied: {len(summary['auto_applied'])}\n"
         f"⏳ Pending your action: {len(summary['pending_manual'])}\n"
         f"📝 Total tracked: {summary['total']}"
     )
-    await update.message.reply_text(msg, parse_mode="Markdown")
+    await update.message.reply_text(msg, parse_mode="HTML")
 
 # ── /pending ───────────────────────────────────────────
 async def pending(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
@@ -70,7 +70,7 @@ async def pending(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text("🎉 No pending jobs! All caught up.")
         return
 
-    await update.message.reply_text(f"⏳ *{len(jobs)} jobs need your attention:*", parse_mode="Markdown")
+    await update.message.reply_text(f"⏳ <b>{len(jobs)} jobs need your attention:</b>", parse_mode="HTML")
 
     for job in jobs[:5]:
         import os
@@ -83,13 +83,13 @@ async def pending(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
         score     = job.get("score", "?")
         one_liner = job.get("one_liner", "")
         msg = (
-            f"📌 *{job['title']}*\n"
+            f"📌 <b>{job['title']}</b>\n"
             f"🏢 {job['company']}\n"
             f"📍 {job.get('location', 'N/A')}\n"
             f"⭐ Match: {score}%\n"
-            f"💡 _{one_liner}_"
+            f"💡 <i>{one_liner}</i>"
         )
-        await update.message.reply_text(msg, parse_mode="Markdown", reply_markup=markup)
+        await update.message.reply_text(msg, parse_mode="HTML", reply_markup=markup)
 
         # Send tailored resume as document
         resume_path = job.get("resume_path", "")
@@ -104,7 +104,7 @@ async def pending(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
             await update.message.reply_text("_No tailored resume found for this job._", parse_mode="Markdown")
 
     if len(jobs) > 5:
-        await update.message.reply_text(f"_...and {len(jobs)-5} more. Showing top 5._", parse_mode="Markdown")
+        await update.message.reply_text(f"<i>...and {len(jobs)-5} more. Showing top 5.</i>", parse_mode="HTML")
 
 # ── /applied ───────────────────────────────────────────
 async def applied_today(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
@@ -117,17 +117,17 @@ async def applied_today(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text("No auto-applications today yet.")
         return
 
-    msg = "✅ *Auto-applied today:*\n\n"
+    msg = "<b>✅ Auto-applied today:</b>\n\n"
     for job in jobs:
         msg += f"• *{job['title']}* @ {job['company']}\n"
-    await update.message.reply_text(msg, parse_mode="Markdown")
+    await update.message.reply_text(msg, parse_mode="HTML")
 
 # ── /pause & /resume_agent ─────────────────────────────
 async def pause(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
     if not authorized(update): return
     import config
     config.AUTO_APPLY_ENABLED = False
-    await update.message.reply_text("⏸ Auto-applying paused. Use /resume_agent to turn back on.", parse_mode="Markdown")
+    await update.message.reply_text("⏸ Auto-applying paused. Use /resume_agent to turn back on.")
 
 async def resume_agent(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
     if not authorized(update): return

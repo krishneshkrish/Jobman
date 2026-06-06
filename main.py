@@ -86,18 +86,18 @@ async def _send_summary_with_resumes(applied: int, notify_jobs: list, skipped: l
 
         # ── Summary message ────────────────────────────
         msg = (
-            f"🤖 *JobAgent Report*\n\n"
+            f"<b>🤖 JobAgent Report</b>\n\n"
             f"✅ Auto-applied: {applied} jobs\n"
             f"⏳ Need your attention: {len(notify_jobs)} jobs\n"
             f"⏭ Skipped (low match): {len(skipped)} jobs\n"
         )
         if len(notify_jobs) > 3:
-            msg += f"\n_Use /pending to see all jobs with apply buttons._"
+            msg += f"\n<i>Use /pending to see all jobs with apply buttons.</i>"
 
         await bot.send_message(
             chat_id=TELEGRAM_CHAT_ID,
             text=msg,
-            parse_mode="Markdown",
+            parse_mode="HTML",
         )
 
         # ── Push top 5 jobs with tailored resume attached ─
@@ -122,7 +122,7 @@ async def _send_summary_with_resumes(applied: int, notify_jobs: list, skipped: l
             await bot.send_message(
                 chat_id=TELEGRAM_CHAT_ID,
                 text=card,
-                parse_mode="Markdown",
+                parse_mode="HTML",
                 reply_markup=markup,
             )
 
@@ -133,8 +133,7 @@ async def _send_summary_with_resumes(applied: int, notify_jobs: list, skipped: l
                         chat_id=TELEGRAM_CHAT_ID,
                         document=f,
                         filename=f"Resume_{job['company'].replace(' ','_')}.txt",
-                        caption=f"📄 Tailored resume for *{job['title']}* @ {job['company']}",
-                        parse_mode="Markdown",
+                        caption=f"📄 Tailored resume for {job['title']} @ {job['company']}",
                     )
 
     except Exception as e:
