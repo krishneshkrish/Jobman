@@ -39,11 +39,21 @@ async def help_cmd(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
 # ── /scan ──────────────────────────────────────────────
 async def scan_now(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
     if not authorized(update): return
-    await update.message.reply_text("🔍 Scanning for new jobs... check back in a few minutes!")
-    import sys
-    sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-    from main import run_agent_cycle
-    asyncio.create_task(run_agent_cycle(notify_telegram=True))
+    await update.message.reply_text("🔍 Scanning for new jobs... I will message you when done!")
+
+    async def _run():
+        try:
+            import sys
+            sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+            from main import run_agent_cycle
+            await run_agent_cycle(notify_telegram=True)
+        except Exception as e:
+            from telegram import Bot
+            from config import TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
+            bot = Bot(token=TELEGRAM_BOT_TOKEN)
+            await bot.send_message(chat_id=TELEGRAM_CHAT_ID, text=f"❌ Scan error: {e}")
+
+    asyncio.create_task(_run())
 
 # ── /status ────────────────────────────────────────────
 async def status(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
